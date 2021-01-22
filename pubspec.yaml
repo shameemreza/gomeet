@@ -1,0 +1,41 @@
+name: gomeet
+description: Video Conferencing, Web Conferencing, Webinars, Screen Sharing.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_auth: ^0.20.0+1
+  cloud_firestore: ^0.16.0
+  firebase_core: ^0.7.0
+  flutter_gradient_colors: ^1.0.0
+  uuid: ^2.2.2
+  google_fonts: ^1.1.1
+  intl: ^0.16.1
+  introduction_screen: ^1.0.9
+  pin_code_fields: ^6.1.0
+  flutter_custom_clippers: ^1.1.2
+  image_picker: ^0.6.7+21
+  jitsi_meet: ^2.0.0
+  flutter_snake_navigationbar: ^0.4.2
+  cupertino_icons: ^1.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/images/

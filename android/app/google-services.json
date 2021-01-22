@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "518648384894",
+    "project_id": "gomeet-abbd6",
+    "storage_bucket": "gomeet-abbd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518648384894:android:df3948c90fa0fabcfeb72f",
+        "android_client_info": {
+          "package_name": "com.appbuff.gomeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518648384894-euir97krm8c2ui3efthb0ot5n77pve5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP3Nb5K47_Mz3uAwpyJsJKJ7yWd2eudJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518648384894-euir97krm8c2ui3efthb0ot5n77pve5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
